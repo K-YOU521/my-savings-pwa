@@ -1,6 +1,6 @@
 // Firebase コンソール > プロジェクトの設定 > ウェブアプリ で取得した値に置き換えてください。
 // この設定値は公開される前提です。セキュリティは Firestore ルールで保護します。
-const firebaseConfig = {
+export const firebaseConfig = {
   apiKey: "AIzaSyDtjNh1tq7Vw0UuZWfeQBLrDFirNDbmRsc",
   authDomain: "my-savings-pwa.firebaseapp.com",
   projectId: "my-savings-pwa",
